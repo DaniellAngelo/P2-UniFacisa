@@ -10,4 +10,4 @@
            long, 8 bytes - 2**63
 
 -reais - ponto flutuante: float, 4 bytes
-                          double, 8 bytes
+                          double, 8 bytes 
