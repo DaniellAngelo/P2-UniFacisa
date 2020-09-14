@@ -9,5 +9,5 @@ Tipos Primitivos
                 int 4 bytes - 2 147 483,
                 long 8 bytes - 2**63
 
--reais - ponto flutuante: float 4 bytes,
-                          double 8 bytes
+    -reais - ponto flutuante: float 4 bytes,
+                              double 8 bytes
