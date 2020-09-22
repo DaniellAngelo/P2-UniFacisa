@@ -2,13 +2,13 @@ Operadores em JAVA
 
 Aritméticos: +, -, *, /, %
 
-    int a =  1  +  1 ;      // o valor de a será 2 
+    int a =  1  +  1 ;    // o valor de a será 2 
     a = a -  1 ;          // o valor de a será 1 
     a = a *  10 ;         // o valor de a será 10 
     a = a /  2 ;          // o valor de a será 5 
-    a = a /  2 ;          // o valor de a será 2 (o inteiro inteiro apenas a parte inteira, desprezando um decimal
+    a = a /  2 ;          // o valor de a será 2 (apenas a parte inteira, desprezando a parte decimal)
 
-    int resto =  10  %  3 ; // o valor do resto será 1
+    int resto =  10  %  3 ; // o resto será 1
 
 Unários: ++, -, !
 
@@ -23,9 +23,9 @@ Unários: ++, -, !
 
     // booleano 
     boolean f =  verdadeiro ;
-    f =  ! f;               // inverti o valor de f para false 
-    f =  ! verdade ;            // mantive o valor de f em false 
-    f =  ! falso ;           // alterei o valor de f para true
+    f =  ! f;                 // inverte o valor de f para false 
+    f =  ! verdade ;          // mantem o valor de f em false 
+    f =  ! falso ;            // altera o valor de f para true
 
 Relacionais de comparação e igualdade:
 
