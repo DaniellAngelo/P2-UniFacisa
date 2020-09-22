@@ -1,8 +1,6 @@
-
-
 Scanner é uma classe do java que fica  no pacote java.util.
 
-  import java.util.Scanner;
+    import java.util.Scanner;
   
 Objeto criado da classe scanner e atribuido à variável entrada (objeto contem funções que podem ser executadas). 
 
