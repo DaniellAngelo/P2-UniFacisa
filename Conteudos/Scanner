@@ -1,3 +1,5 @@
+Scanner
+
 Scanner é uma classe do java que fica  no pacote java.util.
 
     import java.util.Scanner;
