@@ -20,7 +20,7 @@ nextDouble() é uma função da classe Scanner, que pode ser executado a partir 
     entrada.nextInt()       para inteiro
     entrada.next()          para recebe String
 
-Para receber o double com . (separador entre casa decimal e ponto flutuante).
+Para receber o double com " . " (separador entre casa decimal e ponto flutuante).
 
     import java.util.locale;
 
