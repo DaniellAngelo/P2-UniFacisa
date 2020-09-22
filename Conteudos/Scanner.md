@@ -16,3 +16,6 @@ nextDouble() é uma função da classe Scanner, que pode ser executado a partir 
     double altura = entrada.nextDouble();
     double comprimento = entrada.nextDouble();
 
+entrada.nextDouble() para bouble
+entrada.nextInt() para inteiro
+entrada.next() para recebe String
