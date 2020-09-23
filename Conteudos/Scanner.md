@@ -25,4 +25,4 @@ Para receber o double com " . " (separador entre casa decimal e ponto flutuante)
     import java.util.locale;
 
     entrada.useLocale(Locale.US);
-```java    
+```java
