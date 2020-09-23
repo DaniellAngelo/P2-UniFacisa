@@ -1,4 +1,4 @@
-Tipos Primitivos
+# Tipos Primitivos
 
     -lógicos: boolean, 1 bit
 
