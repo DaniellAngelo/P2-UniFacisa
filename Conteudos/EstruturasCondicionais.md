@@ -1,9 +1,9 @@
-Estruturas Condicionais
+# Estruturas Condicionais
 
-if - else if - else
+## if - else if - else
 
 Usa-se "if, else if e elif" quando precisar fazer comparações. Chaves "{", "}" são obrigatórias quando há multiplas linhas no comando após a condição, quando apenas uma linha é opcional.
-
+```java
     Scanner scanner =  novo  Scanner ( Sistema . In);
     int idade = scanner . nextInt ();
 
@@ -13,12 +13,12 @@ Usa-se "if, else if e elif" quando precisar fazer comparações. Chaves "{", "}"
         System.out.println ("Adulto");
     else (idade < 120)
         System.out.println ("Idoso");
+```
 
-
-Switch - case
+## Switch - case
 
 Switch case serve apenas para comparar (==) valores primitivos inteiros e String, não podendo de usado com float ou double, >= , <= e comparações complexas usando operadores lógicos(&&, || ). a palvra "default" funciona como eu tipo de else.
-
+```java
     publi class DataTexto{
 
         //Formato data padrão: 09/07/2020
@@ -48,3 +48,4 @@ Switch case serve apenas para comparar (==) valores primitivos inteiros e String
             }
         }
     }
+```
