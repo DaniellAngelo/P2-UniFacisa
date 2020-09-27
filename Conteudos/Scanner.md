@@ -32,4 +32,3 @@ Para receber o double com " . " (separador entre casa decimal e ponto flutuante)
 
     entrada.useLocale(Locale.US);
 ```
-.
