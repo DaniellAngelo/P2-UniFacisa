@@ -72,7 +72,7 @@ public class ParesPositivos {
 }
 ```
 ## For
-A do for, é usada geralmente quando se sabe a quantidade de iterações.
+A estrutura do for, é usada geralmente quando se sabe a quantidade de iterações.
 ```java
 import java.util.Scanner;
 public class ParesPositivos {
